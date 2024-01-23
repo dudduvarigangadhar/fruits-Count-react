@@ -1,0 +1,48 @@
+.fruits-bg-container {
+  background-color: #ffd569;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+  padding-left: 50px;
+}
+.fruits-container {
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  height: 80vh;
+  padding: 45px;
+  max-width: 1000px;
+}
+.img-container {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.image {
+  max-width: 250px;
+  min-height: 250px;
+}
+.eat-button {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.fruits-count {
+  color: #ffd569;
+  font-family: 'Roboto';
+}
+.fruits-display {
+  font-family: 'Roboto';
+}
